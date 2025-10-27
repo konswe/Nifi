@@ -8,3 +8,6 @@ Na swojej stacji laboratoryjnej zainstalowane mam
 - Adminer
 
 Dodatkowe instalacje do innych projektów będą już w danych repozytoriach.
+## Lista projektów
+1. [Generator Zdarzeń](https://github.com/konswe/Nifi/blob/main/1.%20GeneratorZdarzen)
+2. 
