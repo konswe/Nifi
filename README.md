@@ -6,4 +6,5 @@ Na swojej stacji laboratoryjnej zainstalowane mam
 - NiFi-Registry
 - Postgres
 - Adminer
+
 Dodatkowe instalacje do innych projektów będą już w danych repozytoriach.
