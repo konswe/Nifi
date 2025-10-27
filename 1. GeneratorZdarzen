@@ -1,0 +1,2 @@
+# Generator zdarzeń
+Celem projektu jest tworzenie zdarzeń (JSON) w nifi i przesyłanie je do tabeli w postgresie - małe zapoznanie się z NiFi
