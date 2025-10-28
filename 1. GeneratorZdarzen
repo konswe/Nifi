@@ -1,2 +1,13 @@
 # Generator zdarzeń
-Celem projektu jest tworzenie zdarzeń (JSON) w nifi i przesyłanie je do tabeli w postgresie - małe zapoznanie się z NiFi
+Celem projektu jest tworzenie zdarzeń (JSON) w NiFi i przesyłanie je do tabeli w postgresie - małe zapoznanie się z NiFi
+## 1. Stworzenie tabeli w PG
+```
+CREATE TABLE projekt1.generator_wydarzen (
+id uuid PRIMARY KEY,
+ts timestamptz NOT NULL,
+tekst text,
+wartosc integer,
+notatka text
+);
+```
+Przez adminer zrobiłem nowy schemat do projektu i dodałem tabelę uzupełnieniem jej zajmię się już NiFi
