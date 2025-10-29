@@ -9,5 +9,5 @@ Na swojej stacji laboratoryjnej zainstalowane mam
 
 Dodatkowe instalacje do innych projektów będą już w danych repozytoriach.
 ## Lista projektów
-1. [Generator Zdarzeń]([https://github.com/konswe/Nifi/blob/main/1.%20GeneratorZdarzen](https://github.com/konswe/Nifi/tree/main/projekt1))
+1. [Generator Zdarzeń](https://github.com/konswe/Nifi/tree/main/projekt1)
 2. 
